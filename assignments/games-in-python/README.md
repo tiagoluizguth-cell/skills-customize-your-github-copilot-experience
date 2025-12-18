@@ -4,7 +4,7 @@
 ## 🎯 Objetivo
 
 Construa um jogo Hangman (Forca) em linha de comando usando conceitos de manipulação de strings, laços e entrada do usuário. O estudante implementará a lógica do jogo, entrada de letras e condições de vitória/derrota.
-
+ 
 ## 📝 Tarefa
 
 ### 🛠️  Hangman Game
